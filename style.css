@@ -1,0 +1,142 @@
+.slime {
+    height: 200px;
+    width: 200px;
+}
+
+header {
+    background-color: rgb(39, 170, 35);
+    border: 10px double black;
+}
+
+body {
+    background-color: pink;
+}
+
+.hed{
+    display: flex;
+}
+
+.text {
+    color: white;
+    font-size: 125px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+   
+}
+
+.text_2 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top: -100px;
+}
+
+main div {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightskyblue;
+}
+
+.you {
+    font-size: 40px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(29, 27, 146);
+    border: 10px double black;
+    padding: 10px;
+}
+
+main {
+    background-color: lightskyblue;
+}
+
+.picture {
+    justify-content: space-around;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    background-color: rgb(226, 163, 44);
+    border: 10px double black;
+}
+
+.picture img{
+    width: 200px;
+    height: 200px;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.paw {
+    background-color: lightskyblue;
+}
+
+.picture_2 img {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.picture_2 {
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    background-color: rgb(219, 219, 46);
+    border: 10px double black;
+}
+
+.paw_2 {
+    background-color: pink;
+}
+
+.picture_3 img {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.picture_3 {
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    background-color: rgb(221, 89, 89);
+    border: 10px double black;
+}
+
+.paw_3 {
+    background-color: lightskyblue;
+}
+
+.jump {
+    font-size: 20px;
+    background-color: rgb(48, 166, 221);
+    border: 10px double black;
+    color: white;
+    font-family: cursive;
+}
+
+footer h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: inherit;
+}
+
+.run {
+    font-size: 20px;
+    background-color: rgb(224, 68, 41);
+    border: 10px double black;
+    color: white;
+    font-family: cursive;
+}
+
+footer {
+    background-color: rgb(41, 212, 224);
+    border: 10px double black;
+}
